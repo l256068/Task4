@@ -1,2 +1,2 @@
 # Task4
-This is tas 4 from last lab
+This is task 4 from last lab
